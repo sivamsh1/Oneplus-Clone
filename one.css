@@ -1,0 +1,172 @@
+
+
+body{
+    text-decoration: none;
+    overflow-x:hidden;
+}
+.navbar{
+    width:100%;
+    color: white;
+}
+.navbar li {
+    padding-left: 7rem;
+}
+.navbar .navbar-brand{
+
+    font-size: 2rem;
+    font-family: fantasy;
+    
+} 
+.carousel-inner{
+    position: relative;
+}  
+.caption1{
+    color: azure;
+    background-color:black;
+    justify-content: center;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.S21{
+    min-width: 100vw;
+    height: 115vh;
+
+}
+.section2{
+    position: relative;
+}
+.inc{
+    position: absolute;
+    top: 4rem;
+    width: 21rem;
+    left: 7rem;
+    top: 9rem;
+    color: white;
+}
+.section3{
+    display: flex;
+    position: relative;
+    height: 132vh;
+}
+.S31{
+    
+    position: absolute;
+    height: 91vh;
+    width: 63vw;
+    left: 31rem;
+    top: 1rem;
+}
+.S32{
+    position: absolute;
+    left: 3rem;
+    width: 22rem;
+    top: 4rem;
+    font-size: 1rem;
+    font-family: initial;
+
+}
+.caption{
+    padding-left: 5rem;
+    text-decoration: none;
+    color: black;
+}.caption a{
+    text-decoration: none;
+}
+
+.section4{
+    margin-top: -6rem;
+}
+.caption1 button{
+    height: 7vh;
+    width: 15vw;
+    border-radius: 27%;
+    background-color:white;
+
+}
+.section4 a{
+    text-decoration: none;
+
+}
+
+.section4 button{
+    align-items: center;
+    color: black;
+    border-radius: 2rem;
+    background-color: whitesmoke;
+}
+.section4.caption{
+     justify-content: center;
+}
+.section6 a{
+    text-decoration: none;
+}
+/*-----------------  section 5----------------------*/
+.section2{
+    margin-top: 2rem;
+    position: relative;
+
+}
+
+
+.s13{
+    position:absolute;
+    top: 4rem;
+    width: 21rem;
+    left: 7rem;
+    top: 9rem;
+    color: white;
+}
+.s14{
+    position:absolute;
+    top: 4rem;
+    width: 21rem;
+    left: 7rem;
+    top: 9rem;
+    color:black;
+}
+/*---------------------------  section6  -------------------*/
+.section6{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-top: 2rem;;
+}
+
+.section7{
+    position:relative;
+
+}
+.s73{
+    position:absolute;
+    top: 4rem;
+    width: 21rem;
+    left: 7rem;
+    top: 9rem;
+    color: white;
+
+}
+.s74{
+    position:absolute;
+    top: 4rem;
+    width: 21rem;
+    left: 7rem;
+    top: 9rem;
+    color: white;
+}
+.s72{
+    position:absolute;
+    top: 4rem;
+    width: 21rem;
+    left: 7rem;
+    top: 9rem;
+    color: white;
+}
+/*-------------------  Footer  ----------------------*/
+
+.lst{
+    display:flex;
+    
+}
+.section7 a{
+text-decoration: none;
+}
