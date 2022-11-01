@@ -77,9 +77,10 @@ body{
     margin-top: -6rem;
 }
 .caption1 button{
+    color: white;
+    background-color: black;
     height: 7vh;
-    width: 15vw;
-    border-radius: 27%;
+    width:auto;
     background-color:white;
 
 }
