@@ -76,12 +76,12 @@ body{
 .section4{
     margin-top: -6rem;
 }
-.caption1 button{
+.caption1 a{
     color: white;
     background-color: black;
     height: 7vh;
     width:auto;
-    background-color:white;
+    text-decoration: none;
 
 }
 .section4 a{
